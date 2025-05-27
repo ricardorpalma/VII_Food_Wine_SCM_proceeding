@@ -39,6 +39,6 @@ Universidad Nacional de Cuyo
 
 <hr>
 
-![image](flyer_3.png)
+![image](flyer3.png)
 
 
