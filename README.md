@@ -38,7 +38,8 @@ Ricardo R. Palma - PhD
 Universidad Nacional de Cuyo
 
 <hr>
-Download the proceeding from this [link](Proceeding.pdf)
+Download the proceeding from this 
+[link](Proceeding.pdf)
 
 <hr>
 ![image](flyer3.png)
