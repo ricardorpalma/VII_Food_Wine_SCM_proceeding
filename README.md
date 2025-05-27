@@ -37,4 +37,8 @@ Thank you for joining us, and we look forward to a fruitful and inspiring confer
 Ricardo R. Palma - PhD
 Universidad Nacional de Cuyo
 
+<hr>
+
+![image](flyer_3.png)
+
 
